@@ -1,0 +1,6 @@
+_do_transaction 112
+_omap_setkeys 112
+_setattrs 112
+_touch 8
+_write 112
+statfs 9

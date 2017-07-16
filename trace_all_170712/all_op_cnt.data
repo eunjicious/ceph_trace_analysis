@@ -1,0 +1,21 @@
+# func ycsba_mds ycsbb_mds ycsbc_mds ycsbd_mds ycsbe_mds ycsbf_mds ycsba_fds ycsbb_fds ycsbc_fds ycsbd_fds ycsbe_fds ycsbf_fds
+collection_list 0 0 0 0 0 0 0 0 0 0 0 0
+list_collections 0 0 0 0 0 0 0 0 0 0 0 0
+exists 0 0 0 0 0 0 0 0 0 0 0 0
+stat 0 0 0 0 0 0 0 0 0 0 0 0
+statfs 6 7 4 4 28 9 9 7 6 6 28 9
+key 0 0 0 0 0 0 0 0 0 0 0 0
+omap_get_values 0 0 0 0 0 0 0 0 0 0 0 0
+omap_get_header 0 0 0 0 0 0 0 0 0 0 0 0
+read 0 0 0 0 0 0 0 0 0 0 0 0
+getattr 0 0 0 0 0 0 0 0 0 0 0 0
+getattrs 0 0 0 0 0 0 0 0 0 0 0 0
+_create_collection 0 0 0 0 0 0 0 0 0 0 0 0
+_omap_rmkeys 0 0 0 0 0 0 0 0 0 0 0 0
+_omap_setkeys 94 10 14 101 720 112 125 12 11 100 461 76
+_omap_setheader 0 0 0 0 0 0 0 0 0 0 0 0
+_remove 0 0 0 0 31 0 0 0 0 0 28 0
+_setattrs 94 10 14 101 646 112 125 12 11 100 393 76
+_write 94 10 14 101 646 112 125 12 11 100 393 76
+_touch 20 1 1 5 45 8 14 1 1 6 39 6
+_do_transaction 94 10 14 101 720 112 125 12 11 100 461 76

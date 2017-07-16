@@ -1,0 +1,14 @@
+_do_transaction 2686
+_omap_rmkeys 1
+_omap_setkeys 2372
+_setattrs 1028
+_touch 312
+_write 1030
+collection_list 624
+exists 1
+getattr 532
+list_collections 2
+omap_get_values 962
+read 5
+stat 312
+statfs 3

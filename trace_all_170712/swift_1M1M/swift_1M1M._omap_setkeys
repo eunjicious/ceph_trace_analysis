@@ -1,0 +1,24 @@
+ 200 _omap_setkeys 1000
+  40 _omap_setkeys 1096
+  30 _omap_setkeys 245
+  30 _omap_setkeys 247
+1000 _omap_setkeys 251
+  14 _omap_setkeys 274
+ 986 _omap_setkeys 275
+  14 _omap_setkeys 326
+ 986 _omap_setkeys 327
+   8 _omap_setkeys 402
+  80 _omap_setkeys 416
+   1 _omap_setkeys 417
+  20 _omap_setkeys 428
+  20 _omap_setkeys 429
+4000 _omap_setkeys 439
+2000 _omap_setkeys 467
+  20 _omap_setkeys 486
+  20 _omap_setkeys 487
+ 212 _omap_setkeys 864
+ 112 _omap_setkeys 888
+ 100 _omap_setkeys 904
+  25 _omap_setkeys 941
+  22 _omap_setkeys 957
+ 224 _omap_setkeys 984

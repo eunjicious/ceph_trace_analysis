@@ -1,0 +1,1089 @@
+2017-07-13 20:51:31.963755 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:31.963760 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.13_head #1:c97f6a48:::100000000f4.00000000:head#
+2017-07-13 20:51:31.963771 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.13_head #1:c97f6a48:::100000000f4.00000000:head# ~306
+2017-07-13 20:51:31.963774 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.13_head #1:c97f6a48:::100000000f4.00000000:head# 0~128
+2017-07-13 20:51:31.963839 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.13_head #1:c8000000::::head# ~410
+2017-07-13 20:51:31.964487 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:31.964500 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:31.964504 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 2972733~5199
+2017-07-13 20:51:31.964510 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:31.965874 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:31.965884 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:31.965888 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 2977932~2470
+2017-07-13 20:51:31.965893 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:32.930494 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs
+2017-07-13 20:51:32.930510 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs: used_bytes: 132733218/4294967296
+2017-07-13 20:51:36.430666 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs
+2017-07-13 20:51:36.430680 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs: used_bytes: 132733218/4294967296
+2017-07-13 20:51:36.858087 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:36.858103 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:36.858108 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 2980402~8440
+2017-07-13 20:51:36.858116 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:38.130848 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs
+2017-07-13 20:51:38.130863 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs: used_bytes: 132741658/4294967296
+2017-07-13 20:51:40.968099 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) read 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# 2375680~4096
+2017-07-13 20:51:41.036403 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.036476 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# ~306
+2017-07-13 20:51:41.036487 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# 2375680~73728
+2017-07-13 20:51:41.036554 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.57_head #1:ea000000::::head# ~410
+2017-07-13 20:51:41.137529 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.137618 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# ~306
+2017-07-13 20:51:41.137627 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# 2445312~147456
+2017-07-13 20:51:41.137716 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.57_head #1:ea000000::::head# ~410
+2017-07-13 20:51:41.238725 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.238835 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# ~306
+2017-07-13 20:51:41.238840 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# 2588672~188416
+2017-07-13 20:51:41.238970 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.57_head #1:ea000000::::head# ~410
+2017-07-13 20:51:41.339940 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.340106 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# ~306
+2017-07-13 20:51:41.340112 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# 2772992~208896
+2017-07-13 20:51:41.340229 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.57_head #1:ea000000::::head# ~410
+2017-07-13 20:51:41.441273 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.441391 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# ~306
+2017-07-13 20:51:41.441396 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# 2977792~217088
+2017-07-13 20:51:41.441530 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.57_head #1:ea000000::::head# ~410
+2017-07-13 20:51:41.542627 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.542782 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# ~306
+2017-07-13 20:51:41.542799 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# 3190784~217088
+2017-07-13 20:51:41.542922 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.57_head #1:ea000000::::head# ~410
+2017-07-13 20:51:41.644126 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.644328 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# ~306
+2017-07-13 20:51:41.644340 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# 3403776~282624
+2017-07-13 20:51:41.644526 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.57_head #1:ea000000::::head# ~410
+2017-07-13 20:51:41.745608 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.745798 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# ~306
+2017-07-13 20:51:41.745809 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# 3682304~282624
+2017-07-13 20:51:41.745962 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.57_head #1:ea000000::::head# ~410
+2017-07-13 20:51:41.847065 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.847227 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# ~306
+2017-07-13 20:51:41.847233 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.57_head #1:eb2f7fcc:::100000000e6.00000005:head# 3960832~233472
+2017-07-13 20:51:41.847343 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.57_head #1:ea000000::::head# ~410
+2017-07-13 20:51:41.847781 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.847785 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head#
+2017-07-13 20:51:41.847808 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:41.847811 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 0~24576
+2017-07-13 20:51:41.847862 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:41.858307 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.858317 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.61_head #2:86ee9bce:::500.00000001:head# ~298
+2017-07-13 20:51:41.858320 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.61_head #2:86ee9bce:::500.00000001:head# 19809~93
+2017-07-13 20:51:41.858321 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.858326 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.61_head #2:86000000::::head# ~402
+2017-07-13 20:51:41.858332 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:41.858335 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 2988842~1084
+2017-07-13 20:51:41.858341 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:41.858464 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.858471 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:41.858474 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 2989926~1372
+2017-07-13 20:51:41.858479 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:41.859130 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) read 2.61_head #2:86ee9bce:::500.00000001:head# 19809~93
+2017-07-13 20:51:41.859245 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.859262 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:41.859266 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 2991298~2166
+2017-07-13 20:51:41.859271 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:41.859526 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.859530 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _remove 1.d_head #1:b0cc5b52:::100000000f3.00000000:head#
+2017-07-13 20:51:41.859542 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.d_head #1:b0000000::::head# ~410
+2017-07-13 20:51:41.859972 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.859981 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.55_head #2:aa448500:::500.00000000:head# ~298
+2017-07-13 20:51:41.859985 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.55_head #2:aa448500:::500.00000000:head# 0~90
+2017-07-13 20:51:41.859989 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.55_head #2:aa000000::::head# ~402
+2017-07-13 20:51:41.949102 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:41.949276 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:41.949281 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 20480~315392
+2017-07-13 20:51:41.949475 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:42.050590 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:42.050771 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:42.050778 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 331776~294912
+2017-07-13 20:51:42.050930 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:42.152010 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:42.152209 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:42.152219 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 622592~331776
+2017-07-13 20:51:42.152411 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:42.230973 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs
+2017-07-13 20:51:42.230980 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs: used_bytes: 135507371/4294967296
+2017-07-13 20:51:42.253439 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:42.253661 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:42.253667 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 950272~368640
+2017-07-13 20:51:42.253903 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:42.354980 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:42.355153 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:42.355159 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 1314816~294912
+2017-07-13 20:51:42.355303 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:42.456348 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:42.456549 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:42.456556 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 1605632~311296
+2017-07-13 20:51:42.456749 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:42.557903 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:42.558071 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:42.558077 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 1912832~282624
+2017-07-13 20:51:42.558237 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:42.659405 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:42.659593 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:42.659600 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 2191360~311296
+2017-07-13 20:51:42.659787 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:42.761013 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:42.761188 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:42.761195 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 2498560~278528
+2017-07-13 20:51:42.761352 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:42.862545 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:42.862730 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:42.862736 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 2772992~307200
+2017-07-13 20:51:42.862872 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:42.963983 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:42.964173 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:42.964179 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 3076096~311296
+2017-07-13 20:51:42.964350 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:43.065387 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:43.065574 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:43.065580 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 3383296~299008
+2017-07-13 20:51:43.065770 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:43.166850 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:43.167019 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:43.167025 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 3678208~303104
+2017-07-13 20:51:43.167191 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:43.268162 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:43.268306 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# ~306
+2017-07-13 20:51:43.268312 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5a_head #1:5b7d9a44:::100000000e6.00000006:head# 3977216~217088
+2017-07-13 20:51:43.268414 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5a_head #1:5a000000::::head# ~410
+2017-07-13 20:51:43.268881 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:43.268885 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.3c_head #1:3e97fce7:::100000000e6.00000007:head#
+2017-07-13 20:51:43.268933 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:43.268937 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 0~73728
+2017-07-13 20:51:43.269022 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:43.370075 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:43.370219 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:43.370224 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 69632~294912
+2017-07-13 20:51:43.370383 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:43.471536 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:43.471709 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:43.471715 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 360448~278528
+2017-07-13 20:51:43.471858 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:43.573015 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:43.573184 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:43.573190 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 634880~303104
+2017-07-13 20:51:43.573369 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:43.674409 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:43.674581 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:43.674587 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 933888~311296
+2017-07-13 20:51:43.674728 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:43.775750 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:43.775933 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:43.775939 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 1241088~290816
+2017-07-13 20:51:43.776119 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:43.877180 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:43.877379 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:43.877385 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 1527808~327680
+2017-07-13 20:51:43.877588 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:43.978606 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:43.978794 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:43.978800 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 1851392~335872
+2017-07-13 20:51:43.978962 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:44.079984 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:44.080167 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:44.080173 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 2183168~307200
+2017-07-13 20:51:44.080317 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:44.181466 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:44.181662 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:44.181670 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 2486272~303104
+2017-07-13 20:51:44.181844 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:44.282944 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:44.283128 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:44.283138 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 2785280~315392
+2017-07-13 20:51:44.283320 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:44.384331 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:44.384518 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:44.384524 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 3096576~319488
+2017-07-13 20:51:44.384726 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:44.485758 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:44.485958 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:44.485964 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 3411968~311296
+2017-07-13 20:51:44.486099 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:44.531090 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs
+2017-07-13 20:51:44.531102 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs: used_bytes: 142470571/4294967296
+2017-07-13 20:51:44.587203 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:44.587392 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:44.587398 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 3719168~319488
+2017-07-13 20:51:44.587572 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:44.688625 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:44.688752 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# ~306
+2017-07-13 20:51:44.688758 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3e97fce7:::100000000e6.00000007:head# 4034560~159744
+2017-07-13 20:51:44.688832 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:44.688835 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.59_head #1:9b3fd297:::100000000e6.00000008:head#
+2017-07-13 20:51:44.688838 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:44.688928 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:44.688935 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 0~167936
+2017-07-13 20:51:44.689046 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:44.790171 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:44.790322 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:44.790332 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 163840~294912
+2017-07-13 20:51:44.790475 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:44.891638 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:44.891822 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:44.891832 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 454656~319488
+2017-07-13 20:51:44.891996 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:44.992993 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:44.993156 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:44.993163 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 770048~270336
+2017-07-13 20:51:44.993303 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:45.094345 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:45.094521 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:45.094532 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 1036288~311296
+2017-07-13 20:51:45.094705 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:45.195875 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:45.196066 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:45.196072 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 1343488~315392
+2017-07-13 20:51:45.196262 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:45.297320 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:45.297519 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:45.297525 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 1654784~290816
+2017-07-13 20:51:45.297668 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:45.398724 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:45.398903 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:45.398914 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 1941504~299008
+2017-07-13 20:51:45.399105 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:45.500057 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:45.500236 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:45.500241 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 2236416~303104
+2017-07-13 20:51:45.500396 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:45.601484 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:45.601672 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:45.601684 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 2535424~294912
+2017-07-13 20:51:45.601869 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:45.702932 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:45.703114 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:45.703119 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 2826240~294912
+2017-07-13 20:51:45.703262 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:45.804341 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:45.804528 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:45.804551 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 3117056~303104
+2017-07-13 20:51:45.804750 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:45.905932 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:45.906132 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:45.906138 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 3416064~299008
+2017-07-13 20:51:45.906278 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:46.007395 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.007580 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:46.007594 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 3710976~299008
+2017-07-13 20:51:46.007778 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:46.108687 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.108919 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.108931 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.39_head #1:9d01c6fb:::100000000e6.00000009:head#
+2017-07-13 20:51:46.109004 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:46.109015 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 0~114688
+2017-07-13 20:51:46.109092 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:46.109188 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.59_head #1:9b3fd297:::100000000e6.00000008:head# ~306
+2017-07-13 20:51:46.109198 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.59_head #1:9b3fd297:::100000000e6.00000008:head# 4005888~188416
+2017-07-13 20:51:46.109266 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.59_head #1:9a000000::::head# ~410
+2017-07-13 20:51:46.210268 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.210453 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:46.210460 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 110592~307200
+2017-07-13 20:51:46.210639 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:46.311727 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.311908 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:46.311918 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 413696~303104
+2017-07-13 20:51:46.312068 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:46.413205 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.413373 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:46.413379 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 712704~294912
+2017-07-13 20:51:46.413570 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:46.514716 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.514904 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:46.514915 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 1003520~307200
+2017-07-13 20:51:46.515057 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:46.616161 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.616367 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:46.616374 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 1306624~299008
+2017-07-13 20:51:46.616559 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:46.717473 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.717712 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:46.717724 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 1601536~380928
+2017-07-13 20:51:46.717935 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:46.819043 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.819294 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:46.819305 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 1978368~425984
+2017-07-13 20:51:46.819506 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:46.831256 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs
+2017-07-13 20:51:46.831263 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs: used_bytes: 149540267/4294967296
+2017-07-13 20:51:46.857820 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.857833 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:46.857836 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 2993464~8478
+2017-07-13 20:51:46.857843 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:46.858707 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.858715 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:46.858719 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3001942~1084
+2017-07-13 20:51:46.858724 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:46.858847 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.858865 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.14_head #2:292cf221:::200.00000000:head# ~298
+2017-07-13 20:51:46.858871 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.14_head #2:292cf221:::200.00000000:head# 0~90
+2017-07-13 20:51:46.858876 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.14_head #2:28000000::::head# ~402
+2017-07-13 20:51:46.920674 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:46.920938 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:46.920948 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 2400256~475136
+2017-07-13 20:51:46.921213 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:47.022332 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:47.022593 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:47.022599 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 2871296~425984
+2017-07-13 20:51:47.022830 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:47.123908 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:47.124136 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:47.124150 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 3293184~430080
+2017-07-13 20:51:47.124330 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:47.225629 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:47.225633 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head#
+2017-07-13 20:51:47.225658 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# ~306
+2017-07-13 20:51:47.225661 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# 0~24576
+2017-07-13 20:51:47.225719 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1f_head #1:f8000000::::head# ~410
+2017-07-13 20:51:47.225830 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:47.226113 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# ~306
+2017-07-13 20:51:47.226124 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9d01c6fb:::100000000e6.00000009:head# 3719168~475136
+2017-07-13 20:51:47.226355 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:47.327556 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:47.327817 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# ~306
+2017-07-13 20:51:47.327827 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# 20480~507904
+2017-07-13 20:51:47.328114 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1f_head #1:f8000000::::head# ~410
+2017-07-13 20:51:47.429247 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:47.429530 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# ~306
+2017-07-13 20:51:47.429537 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# 524288~499712
+2017-07-13 20:51:47.429743 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1f_head #1:f8000000::::head# ~410
+2017-07-13 20:51:47.531103 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:47.531393 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# ~306
+2017-07-13 20:51:47.531404 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# 1019904~479232
+2017-07-13 20:51:47.531643 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1f_head #1:f8000000::::head# ~410
+2017-07-13 20:51:47.632867 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:47.633163 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# ~306
+2017-07-13 20:51:47.633173 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# 1495040~487424
+2017-07-13 20:51:47.633425 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1f_head #1:f8000000::::head# ~410
+2017-07-13 20:51:47.734704 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:47.734983 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# ~306
+2017-07-13 20:51:47.734994 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# 1978368~503808
+2017-07-13 20:51:47.735241 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1f_head #1:f8000000::::head# ~410
+2017-07-13 20:51:47.836482 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:47.836793 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# ~306
+2017-07-13 20:51:47.836803 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# 2478080~503808
+2017-07-13 20:51:47.837042 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1f_head #1:f8000000::::head# ~410
+2017-07-13 20:51:47.938224 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:47.938507 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# ~306
+2017-07-13 20:51:47.938518 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# 2977792~512000
+2017-07-13 20:51:47.938802 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1f_head #1:f8000000::::head# ~410
+2017-07-13 20:51:48.040050 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:48.040342 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# ~306
+2017-07-13 20:51:48.040348 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# 3485696~499712
+2017-07-13 20:51:48.040591 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1f_head #1:f8000000::::head# ~410
+2017-07-13 20:51:48.141662 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:48.141804 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# ~306
+2017-07-13 20:51:48.141810 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1f_head #1:f8c29c7e:::100000000e6.0000000a:head# 3981312~212992
+2017-07-13 20:51:48.141913 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1f_head #1:f8000000::::head# ~410
+2017-07-13 20:51:48.142375 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:48.142379 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.27_head #1:e6444612:::100000000e6.0000000b:head#
+2017-07-13 20:51:48.142528 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.27_head #1:e6444612:::100000000e6.0000000b:head# ~306
+2017-07-13 20:51:48.142532 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.27_head #1:e6444612:::100000000e6.0000000b:head# 0~294912
+2017-07-13 20:51:48.142708 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.27_head #1:e4000000::::head# ~410
+2017-07-13 20:51:48.243860 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:48.244136 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.27_head #1:e6444612:::100000000e6.0000000b:head# ~306
+2017-07-13 20:51:48.244142 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.27_head #1:e6444612:::100000000e6.0000000b:head# 290816~495616
+2017-07-13 20:51:48.244354 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.27_head #1:e4000000::::head# ~410
+2017-07-13 20:51:48.345594 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:48.345852 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.27_head #1:e6444612:::100000000e6.0000000b:head# ~306
+2017-07-13 20:51:48.345857 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.27_head #1:e6444612:::100000000e6.0000000b:head# 782336~483328
+2017-07-13 20:51:48.346126 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.27_head #1:e4000000::::head# ~410
+2017-07-13 20:51:48.447251 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:48.447510 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.27_head #1:e6444612:::100000000e6.0000000b:head# ~306
+2017-07-13 20:51:48.447516 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.27_head #1:e6444612:::100000000e6.0000000b:head# 1261568~483328
+2017-07-13 20:51:48.447726 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.27_head #1:e4000000::::head# ~410
+2017-07-13 20:51:48.548978 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:48.549269 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.27_head #1:e6444612:::100000000e6.0000000b:head# ~306
+2017-07-13 20:51:48.549283 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.27_head #1:e6444612:::100000000e6.0000000b:head# 1740800~503808
+2017-07-13 20:51:48.549579 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.27_head #1:e4000000::::head# ~410
+2017-07-13 20:51:48.650674 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:48.650978 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.27_head #1:e6444612:::100000000e6.0000000b:head# ~306
+2017-07-13 20:51:48.650998 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.27_head #1:e6444612:::100000000e6.0000000b:head# 2240512~491520
+2017-07-13 20:51:48.651231 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.27_head #1:e4000000::::head# ~410
+2017-07-13 20:51:48.752464 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:48.752762 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.27_head #1:e6444612:::100000000e6.0000000b:head# ~306
+2017-07-13 20:51:48.752776 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.27_head #1:e6444612:::100000000e6.0000000b:head# 2727936~499712
+2017-07-13 20:51:48.753076 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.27_head #1:e4000000::::head# ~410
+2017-07-13 20:51:48.854307 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:48.854562 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.27_head #1:e6444612:::100000000e6.0000000b:head# ~306
+2017-07-13 20:51:48.854572 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.27_head #1:e6444612:::100000000e6.0000000b:head# 3223552~458752
+2017-07-13 20:51:48.854837 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.27_head #1:e4000000::::head# ~410
+2017-07-13 20:51:48.955940 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:48.956251 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.27_head #1:e6444612:::100000000e6.0000000b:head# ~306
+2017-07-13 20:51:48.956272 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.27_head #1:e6444612:::100000000e6.0000000b:head# 3678208~499712
+2017-07-13 20:51:48.956515 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.27_head #1:e4000000::::head# ~410
+2017-07-13 20:51:49.057469 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.057540 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.27_head #1:e6444612:::100000000e6.0000000b:head# ~306
+2017-07-13 20:51:49.057552 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.27_head #1:e6444612:::100000000e6.0000000b:head# 4173824~20480
+2017-07-13 20:51:49.057564 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.27_head #1:e4000000::::head# ~410
+2017-07-13 20:51:49.057880 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.057891 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head#
+2017-07-13 20:51:49.058125 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# ~306
+2017-07-13 20:51:49.058134 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# 0~466944
+2017-07-13 20:51:49.058408 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2f_head #1:f4000000::::head# ~410
+2017-07-13 20:51:49.159605 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.159875 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# ~306
+2017-07-13 20:51:49.159887 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# 462848~499712
+2017-07-13 20:51:49.160149 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2f_head #1:f4000000::::head# ~410
+2017-07-13 20:51:49.261461 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.261752 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# ~306
+2017-07-13 20:51:49.261764 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# 958464~499712
+2017-07-13 20:51:49.262034 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2f_head #1:f4000000::::head# ~410
+2017-07-13 20:51:49.363224 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.363475 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# ~306
+2017-07-13 20:51:49.363485 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# 1454080~462848
+2017-07-13 20:51:49.363711 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2f_head #1:f4000000::::head# ~410
+2017-07-13 20:51:49.464917 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.465195 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# ~306
+2017-07-13 20:51:49.465205 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# 1912832~491520
+2017-07-13 20:51:49.465429 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2f_head #1:f4000000::::head# ~410
+2017-07-13 20:51:49.566736 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.567024 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# ~306
+2017-07-13 20:51:49.567034 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# 2400256~483328
+2017-07-13 20:51:49.567307 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2f_head #1:f4000000::::head# ~410
+2017-07-13 20:51:49.668544 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.668822 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# ~306
+2017-07-13 20:51:49.668833 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# 2879488~475136
+2017-07-13 20:51:49.669088 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2f_head #1:f4000000::::head# ~410
+2017-07-13 20:51:49.770048 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.770319 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# ~306
+2017-07-13 20:51:49.770330 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# 3350528~450560
+2017-07-13 20:51:49.770521 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2f_head #1:f4000000::::head# ~410
+2017-07-13 20:51:49.871552 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.871797 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# ~306
+2017-07-13 20:51:49.871811 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2f_head #1:f59a3c87:::100000000e6.0000000c:head# 3796992~397312
+2017-07-13 20:51:49.872002 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2f_head #1:f4000000::::head# ~410
+2017-07-13 20:51:49.872169 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.872173 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.36_head #1:6c299af2:::100000000e6.0000000d:head#
+2017-07-13 20:51:49.872238 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6c299af2:::100000000e6.0000000d:head# ~306
+2017-07-13 20:51:49.872247 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6c299af2:::100000000e6.0000000d:head# 0~102400
+2017-07-13 20:51:49.872325 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:49.973451 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:49.973742 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6c299af2:::100000000e6.0000000d:head# ~306
+2017-07-13 20:51:49.973753 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6c299af2:::100000000e6.0000000d:head# 98304~503808
+2017-07-13 20:51:49.974048 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:50.075292 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:50.075549 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6c299af2:::100000000e6.0000000d:head# ~306
+2017-07-13 20:51:50.075556 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6c299af2:::100000000e6.0000000d:head# 598016~454656
+2017-07-13 20:51:50.075805 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:50.176931 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:50.177187 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6c299af2:::100000000e6.0000000d:head# ~306
+2017-07-13 20:51:50.177193 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6c299af2:::100000000e6.0000000d:head# 1048576~466944
+2017-07-13 20:51:50.177435 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:50.278572 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:50.278846 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6c299af2:::100000000e6.0000000d:head# ~306
+2017-07-13 20:51:50.278852 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6c299af2:::100000000e6.0000000d:head# 1511424~487424
+2017-07-13 20:51:50.279100 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:50.380281 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:50.380570 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6c299af2:::100000000e6.0000000d:head# ~306
+2017-07-13 20:51:50.380590 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6c299af2:::100000000e6.0000000d:head# 1994752~495616
+2017-07-13 20:51:50.380831 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:50.481924 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:50.482243 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6c299af2:::100000000e6.0000000d:head# ~306
+2017-07-13 20:51:50.482263 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6c299af2:::100000000e6.0000000d:head# 2486272~483328
+2017-07-13 20:51:50.482529 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:50.583706 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:50.583983 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6c299af2:::100000000e6.0000000d:head# ~306
+2017-07-13 20:51:50.583997 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6c299af2:::100000000e6.0000000d:head# 2965504~483328
+2017-07-13 20:51:50.584247 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:50.685469 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:50.685789 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6c299af2:::100000000e6.0000000d:head# ~306
+2017-07-13 20:51:50.685801 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6c299af2:::100000000e6.0000000d:head# 3444736~499712
+2017-07-13 20:51:50.686071 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:50.787327 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:50.787349 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:50.787353 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.39_head #1:9f4ee579:::100000000e6.0000000e:head#
+2017-07-13 20:51:50.787498 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6c299af2:::100000000e6.0000000d:head# ~306
+2017-07-13 20:51:50.787501 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# ~306
+2017-07-13 20:51:50.787504 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6c299af2:::100000000e6.0000000d:head# 3940352~253952
+2017-07-13 20:51:50.787506 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# 0~233472
+2017-07-13 20:51:50.787620 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:50.787651 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:50.888932 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:50.889105 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# ~306
+2017-07-13 20:51:50.889116 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# 229376~335872
+2017-07-13 20:51:50.889294 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:50.990307 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:50.990568 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# ~306
+2017-07-13 20:51:50.990579 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# 561152~438272
+2017-07-13 20:51:50.990845 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:51.091944 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:51.092209 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# ~306
+2017-07-13 20:51:51.092215 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# 995328~462848
+2017-07-13 20:51:51.092476 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:51.193540 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:51.193857 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# ~306
+2017-07-13 20:51:51.193879 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# 1454080~487424
+2017-07-13 20:51:51.194101 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:51.295290 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:51.295557 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# ~306
+2017-07-13 20:51:51.295570 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# 1937408~462848
+2017-07-13 20:51:51.295803 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:51.396962 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:51.397236 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# ~306
+2017-07-13 20:51:51.397247 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# 2396160~483328
+2017-07-13 20:51:51.397482 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:51.498683 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:51.498941 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# ~306
+2017-07-13 20:51:51.498952 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# 2875392~458752
+2017-07-13 20:51:51.499177 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:51.600378 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:51.600649 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# ~306
+2017-07-13 20:51:51.600661 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# 3330048~483328
+2017-07-13 20:51:51.600933 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:51.702110 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:51.702319 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# ~306
+2017-07-13 20:51:51.702325 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9f4ee579:::100000000e6.0000000e:head# 3809280~385024
+2017-07-13 20:51:51.702383 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:51.702388 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.56_head #1:6b020cdf:::100000000e6.0000000f:head#
+2017-07-13 20:51:51.702465 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# ~306
+2017-07-13 20:51:51.702468 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# 0~126976
+2017-07-13 20:51:51.702507 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:51.702552 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.56_head #1:6a000000::::head# ~410
+2017-07-13 20:51:51.803633 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:51.803915 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# ~306
+2017-07-13 20:51:51.803925 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# 122880~524288
+2017-07-13 20:51:51.804202 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.56_head #1:6a000000::::head# ~410
+2017-07-13 20:51:51.858337 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:51.858347 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:51.858350 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3003026~1903
+2017-07-13 20:51:51.858357 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:51.905302 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:51.905603 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# ~306
+2017-07-13 20:51:51.905608 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# 643072~491520
+2017-07-13 20:51:51.905885 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.56_head #1:6a000000::::head# ~410
+2017-07-13 20:51:52.007051 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:52.007341 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# ~306
+2017-07-13 20:51:52.007351 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# 1130496~524288
+2017-07-13 20:51:52.007615 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.56_head #1:6a000000::::head# ~410
+2017-07-13 20:51:52.108792 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:52.109084 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# ~306
+2017-07-13 20:51:52.109096 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# 1650688~520192
+2017-07-13 20:51:52.109396 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.56_head #1:6a000000::::head# ~410
+2017-07-13 20:51:52.131412 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs
+2017-07-13 20:51:52.131422 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs: used_bytes: 174484084/4294967296
+2017-07-13 20:51:52.210517 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:52.210812 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# ~306
+2017-07-13 20:51:52.210823 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# 2166784~536576
+2017-07-13 20:51:52.211101 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.56_head #1:6a000000::::head# ~410
+2017-07-13 20:51:52.312186 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:52.312466 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# ~306
+2017-07-13 20:51:52.312473 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# 2699264~487424
+2017-07-13 20:51:52.312709 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.56_head #1:6a000000::::head# ~410
+2017-07-13 20:51:52.413642 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:52.413952 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# ~306
+2017-07-13 20:51:52.413978 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# 3182592~512000
+2017-07-13 20:51:52.414260 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.56_head #1:6a000000::::head# ~410
+2017-07-13 20:51:52.515907 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:52.516206 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# ~306
+2017-07-13 20:51:52.516219 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# 3694592~499712
+2017-07-13 20:51:52.516478 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.56_head #1:6a000000::::head# ~410
+2017-07-13 20:51:52.617288 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:52.617324 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# ~306
+2017-07-13 20:51:52.617329 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.56_head #1:6b020cdf:::100000000e6.0000000f:head# 4190208~4096
+2017-07-13 20:51:52.617338 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.56_head #1:6a000000::::head# ~410
+2017-07-13 20:51:52.618134 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:52.618142 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.5d_head #1:bb59940f:::100000000e6.00000010:head#
+2017-07-13 20:51:52.618390 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5d_head #1:bb59940f:::100000000e6.00000010:head# ~306
+2017-07-13 20:51:52.618399 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5d_head #1:bb59940f:::100000000e6.00000010:head# 0~499712
+2017-07-13 20:51:52.618669 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5d_head #1:ba000000::::head# ~410
+2017-07-13 20:51:52.719851 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:52.720150 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5d_head #1:bb59940f:::100000000e6.00000010:head# ~306
+2017-07-13 20:51:52.720155 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5d_head #1:bb59940f:::100000000e6.00000010:head# 495616~512000
+2017-07-13 20:51:52.720407 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5d_head #1:ba000000::::head# ~410
+2017-07-13 20:51:52.821602 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:52.821904 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5d_head #1:bb59940f:::100000000e6.00000010:head# ~306
+2017-07-13 20:51:52.821915 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5d_head #1:bb59940f:::100000000e6.00000010:head# 1003520~507904
+2017-07-13 20:51:52.822187 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5d_head #1:ba000000::::head# ~410
+2017-07-13 20:51:52.923305 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:52.923578 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5d_head #1:bb59940f:::100000000e6.00000010:head# ~306
+2017-07-13 20:51:52.923584 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5d_head #1:bb59940f:::100000000e6.00000010:head# 1507328~524288
+2017-07-13 20:51:52.923828 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5d_head #1:ba000000::::head# ~410
+2017-07-13 20:51:53.025097 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.025353 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5d_head #1:bb59940f:::100000000e6.00000010:head# ~306
+2017-07-13 20:51:53.025363 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5d_head #1:bb59940f:::100000000e6.00000010:head# 2027520~487424
+2017-07-13 20:51:53.025622 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5d_head #1:ba000000::::head# ~410
+2017-07-13 20:51:53.126770 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.127084 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5d_head #1:bb59940f:::100000000e6.00000010:head# ~306
+2017-07-13 20:51:53.127115 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5d_head #1:bb59940f:::100000000e6.00000010:head# 2510848~516096
+2017-07-13 20:51:53.127374 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5d_head #1:ba000000::::head# ~410
+2017-07-13 20:51:53.228351 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.228665 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5d_head #1:bb59940f:::100000000e6.00000010:head# ~306
+2017-07-13 20:51:53.228685 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5d_head #1:bb59940f:::100000000e6.00000010:head# 3022848~532480
+2017-07-13 20:51:53.228975 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5d_head #1:ba000000::::head# ~410
+2017-07-13 20:51:53.330212 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.330481 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5d_head #1:bb59940f:::100000000e6.00000010:head# ~306
+2017-07-13 20:51:53.330491 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5d_head #1:bb59940f:::100000000e6.00000010:head# 3555328~516096
+2017-07-13 20:51:53.330775 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5d_head #1:ba000000::::head# ~410
+2017-07-13 20:51:53.431670 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.431781 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5d_head #1:bb59940f:::100000000e6.00000010:head# ~306
+2017-07-13 20:51:53.431786 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5d_head #1:bb59940f:::100000000e6.00000010:head# 4067328~126976
+2017-07-13 20:51:53.431837 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5d_head #1:ba000000::::head# ~410
+2017-07-13 20:51:53.432428 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.432436 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.1_head #1:817b2d77:::100000000e6.00000011:head#
+2017-07-13 20:51:53.432610 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1_head #1:817b2d77:::100000000e6.00000011:head# ~306
+2017-07-13 20:51:53.432620 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1_head #1:817b2d77:::100000000e6.00000011:head# 0~344064
+2017-07-13 20:51:53.432828 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1_head #1:80000000::::head# ~410
+2017-07-13 20:51:53.534013 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.534297 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1_head #1:817b2d77:::100000000e6.00000011:head# ~306
+2017-07-13 20:51:53.534307 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1_head #1:817b2d77:::100000000e6.00000011:head# 339968~475136
+2017-07-13 20:51:53.534556 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1_head #1:80000000::::head# ~410
+2017-07-13 20:51:53.635809 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.636089 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1_head #1:817b2d77:::100000000e6.00000011:head# ~306
+2017-07-13 20:51:53.636101 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1_head #1:817b2d77:::100000000e6.00000011:head# 811008~507904
+2017-07-13 20:51:53.636403 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1_head #1:80000000::::head# ~410
+2017-07-13 20:51:53.737577 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.737869 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1_head #1:817b2d77:::100000000e6.00000011:head# ~306
+2017-07-13 20:51:53.737880 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1_head #1:817b2d77:::100000000e6.00000011:head# 1314816~507904
+2017-07-13 20:51:53.738106 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1_head #1:80000000::::head# ~410
+2017-07-13 20:51:53.839339 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.839620 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1_head #1:817b2d77:::100000000e6.00000011:head# ~306
+2017-07-13 20:51:53.839631 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1_head #1:817b2d77:::100000000e6.00000011:head# 1818624~475136
+2017-07-13 20:51:53.839875 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1_head #1:80000000::::head# ~410
+2017-07-13 20:51:53.941028 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.941339 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1_head #1:817b2d77:::100000000e6.00000011:head# ~306
+2017-07-13 20:51:53.941349 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1_head #1:817b2d77:::100000000e6.00000011:head# 2289664~516096
+2017-07-13 20:51:53.941611 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1_head #1:80000000::::head# ~410
+2017-07-13 20:51:53.993486 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:53.993499 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:53.993521 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3004929~10412
+2017-07-13 20:51:53.993583 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:54.000732 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.000741 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:54.000744 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3015341~1934
+2017-07-13 20:51:54.000749 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:54.042723 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.042928 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1_head #1:817b2d77:::100000000e6.00000011:head# ~306
+2017-07-13 20:51:54.042939 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1_head #1:817b2d77:::100000000e6.00000011:head# 2801664~331776
+2017-07-13 20:51:54.043110 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1_head #1:80000000::::head# ~410
+2017-07-13 20:51:54.144234 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.144476 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1_head #1:817b2d77:::100000000e6.00000011:head# ~306
+2017-07-13 20:51:54.144486 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1_head #1:817b2d77:::100000000e6.00000011:head# 3129344~458752
+2017-07-13 20:51:54.144727 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1_head #1:80000000::::head# ~410
+2017-07-13 20:51:54.171848 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.171860 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:54.171863 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3017275~2465
+2017-07-13 20:51:54.171869 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:54.245958 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.246147 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1_head #1:817b2d77:::100000000e6.00000011:head# ~306
+2017-07-13 20:51:54.246160 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1_head #1:817b2d77:::100000000e6.00000011:head# 3584000~307200
+2017-07-13 20:51:54.246339 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1_head #1:80000000::::head# ~410
+2017-07-13 20:51:54.347352 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.347544 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1_head #1:817b2d77:::100000000e6.00000011:head# ~306
+2017-07-13 20:51:54.347556 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1_head #1:817b2d77:::100000000e6.00000011:head# 3887104~307200
+2017-07-13 20:51:54.347686 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1_head #1:80000000::::head# ~410
+2017-07-13 20:51:54.347845 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.347849 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.5b_head #1:da970c13:::100000000e6.00000012:head#
+2017-07-13 20:51:54.347972 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:54.347982 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 0~188416
+2017-07-13 20:51:54.348083 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:54.389407 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.389417 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:54.389421 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3019740~1934
+2017-07-13 20:51:54.389427 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:54.449121 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.449329 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:54.449334 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 184320~290816
+2017-07-13 20:51:54.449534 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:54.550603 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.550883 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:54.550894 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 471040~462848
+2017-07-13 20:51:54.551155 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:54.631596 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.631609 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:54.631612 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3021674~1934
+2017-07-13 20:51:54.631620 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:54.652230 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.652377 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:54.652382 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 929792~217088
+2017-07-13 20:51:54.652521 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:54.753624 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.753852 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:54.753863 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 1142784~311296
+2017-07-13 20:51:54.754070 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:54.855228 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.855437 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:54.855447 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 1449984~294912
+2017-07-13 20:51:54.855605 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:54.956845 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.957022 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:54.957033 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 1740800~270336
+2017-07-13 20:51:54.957177 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:54.964193 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:54.964205 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:54.964208 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3023608~1934
+2017-07-13 20:51:54.964214 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:55.058332 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:55.058482 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:55.058493 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 2007040~212992
+2017-07-13 20:51:55.058609 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:55.159658 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:55.159831 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:55.159841 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 2215936~356352
+2017-07-13 20:51:55.160066 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:55.261113 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:55.261301 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:55.261307 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 2568192~331776
+2017-07-13 20:51:55.261497 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:55.362791 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:55.363007 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:55.363014 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 2895872~339968
+2017-07-13 20:51:55.363191 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:55.464191 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:55.464385 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:55.464391 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 3235840~311296
+2017-07-13 20:51:55.464569 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:55.565725 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:55.565852 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:55.565858 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 3543040~180224
+2017-07-13 20:51:55.565945 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:55.666996 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:55.667118 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:55.667128 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 3719168~229376
+2017-07-13 20:51:55.667278 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:55.768062 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:55.768111 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:55.768115 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.4e_head #1:721e4f8f:::100000000e6.00000013:head#
+2017-07-13 20:51:55.768153 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:55.768156 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 0~49152
+2017-07-13 20:51:55.768212 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:55.768291 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5b_head #1:da970c13:::100000000e6.00000012:head# ~306
+2017-07-13 20:51:55.768295 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5b_head #1:da970c13:::100000000e6.00000012:head# 3944448~249856
+2017-07-13 20:51:55.768398 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5b_head #1:da000000::::head# ~410
+2017-07-13 20:51:55.869169 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:55.869324 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:55.869329 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 45056~307200
+2017-07-13 20:51:55.869532 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:55.970491 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:55.970654 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:55.970671 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 352256~307200
+2017-07-13 20:51:55.970861 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:56.071862 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:56.072029 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:56.072035 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 655360~286720
+2017-07-13 20:51:56.072190 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:56.173254 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:56.173412 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:56.173418 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 937984~286720
+2017-07-13 20:51:56.173589 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:56.274449 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:56.274646 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:56.274653 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 1220608~299008
+2017-07-13 20:51:56.274832 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:56.376090 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:56.376255 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:56.376261 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 1519616~303104
+2017-07-13 20:51:56.376406 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:56.477526 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:56.477702 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:56.477707 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 1818624~303104
+2017-07-13 20:51:56.477863 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:56.579056 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:56.579234 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:56.579240 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 2117632~319488
+2017-07-13 20:51:56.579428 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:56.680406 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:56.680568 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:56.680574 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 2433024~307200
+2017-07-13 20:51:56.680707 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:56.781467 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:56.781646 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:56.781652 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 2736128~299008
+2017-07-13 20:51:56.781823 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:56.831583 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs
+2017-07-13 20:51:56.831593 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs: used_bytes: 192146169/4294967296
+2017-07-13 20:51:56.882918 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:56.883081 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:56.883089 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 3035136~278528
+2017-07-13 20:51:56.883238 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:56.984400 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:56.984617 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:56.984629 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 3309568~385024
+2017-07-13 20:51:56.984846 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:57.086158 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.086419 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# ~306
+2017-07-13 20:51:57.086429 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4e_head #1:721e4f8f:::100000000e6.00000013:head# 3690496~503808
+2017-07-13 20:51:57.086658 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4e_head #1:72000000::::head# ~410
+2017-07-13 20:51:57.086946 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.086951 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.11_head #1:891f3806:::100000000e6.00000014:head#
+2017-07-13 20:51:57.086963 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:57.086968 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 0~4096
+2017-07-13 20:51:57.087023 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:51:57.188132 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.188355 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:57.188368 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 0~446464
+2017-07-13 20:51:57.188573 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:51:57.289706 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.289976 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:57.289986 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 442368~495616
+2017-07-13 20:51:57.290256 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:51:57.391402 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.391693 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:57.391704 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 933888~520192
+2017-07-13 20:51:57.391988 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:51:57.427629 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.427768 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:57.427778 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 1449984~184320
+2017-07-13 20:51:57.427836 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:51:57.440326 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.440338 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:57.440341 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3025542~2460
+2017-07-13 20:51:57.440347 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:57.493234 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.493366 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:57.493376 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 1630208~204800
+2017-07-13 20:51:57.493481 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:51:57.594734 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.594899 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:57.594909 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 1830912~319488
+2017-07-13 20:51:57.595083 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:51:57.681498 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.682951 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.33_head #1:cff7f4bd:::100000000f2.00000000:head# ~306
+2017-07-13 20:51:57.682973 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.33_head #1:cff7f4bd:::100000000f2.00000000:head# 4096~2744320
+2017-07-13 20:51:57.683807 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.33_head #1:cc000000::::head# ~410
+2017-07-13 20:51:57.688138 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.690128 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3f_head #1:fea3f43b:::100000000f1.00000000:head# ~306
+2017-07-13 20:51:57.690140 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3f_head #1:fea3f43b:::100000000f1.00000000:head# 4096~4190208
+2017-07-13 20:51:57.692098 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3f_head #1:fc000000::::head# ~410
+2017-07-13 20:51:57.697099 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.697104 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.36_head #1:6eeb583d:::100000000f1.00000001:head#
+2017-07-13 20:51:57.699047 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6eeb583d:::100000000f1.00000001:head# ~306
+2017-07-13 20:51:57.699057 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6eeb583d:::100000000f1.00000001:head# 0~4194304
+2017-07-13 20:51:57.701167 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:57.704933 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.704949 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.13_head #1:c9668904:::100000000f1.00000002:head#
+2017-07-13 20:51:57.707085 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.13_head #1:c9668904:::100000000f1.00000002:head# ~306
+2017-07-13 20:51:57.707090 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.13_head #1:c9668904:::100000000f1.00000002:head# 0~4194304
+2017-07-13 20:51:57.708522 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.708526 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.3c_head #1:3f68904c:::100000000f1.00000003:head#
+2017-07-13 20:51:57.710722 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3c_head #1:3f68904c:::100000000f1.00000003:head# ~306
+2017-07-13 20:51:57.710727 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3c_head #1:3f68904c:::100000000f1.00000003:head# 0~4194304
+2017-07-13 20:51:57.714377 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.714381 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.20_head #1:051764a2:::100000000f1.00000004:head#
+2017-07-13 20:51:57.717080 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.717084 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.2f_head #1:f652cc1d:::100000000f1.00000005:head#
+2017-07-13 20:51:57.718996 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.719000 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.44_head #1:22121dcf:::100000000f1.00000006:head#
+2017-07-13 20:51:57.719090 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2f_head #1:f652cc1d:::100000000f1.00000005:head# ~306
+2017-07-13 20:51:57.719095 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2f_head #1:f652cc1d:::100000000f1.00000005:head# 0~4194304
+2017-07-13 20:51:57.721086 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.44_head #1:22121dcf:::100000000f1.00000006:head# ~306
+2017-07-13 20:51:57.721090 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.44_head #1:22121dcf:::100000000f1.00000006:head# 0~4194304
+2017-07-13 20:51:57.721271 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2f_head #1:f4000000::::head# ~410
+2017-07-13 20:51:57.723154 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.44_head #1:22000000::::head# ~410
+2017-07-13 20:51:57.726949 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.726953 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.3a_head #1:5dc645ff:::100000000f1.00000007:head#
+2017-07-13 20:51:57.729069 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3a_head #1:5dc645ff:::100000000f1.00000007:head# ~306
+2017-07-13 20:51:57.729083 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3a_head #1:5dc645ff:::100000000f1.00000007:head# 0~4194304
+2017-07-13 20:51:57.731145 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3a_head #1:5c000000::::head# ~410
+2017-07-13 20:51:57.732579 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3c_head #1:3c000000::::head# ~410
+2017-07-13 20:51:57.735570 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.13_head #1:c8000000::::head# ~410
+2017-07-13 20:51:57.735710 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.20_head #1:051764a2:::100000000f1.00000004:head# ~306
+2017-07-13 20:51:57.737127 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.20_head #1:051764a2:::100000000f1.00000004:head# 0~4194304
+2017-07-13 20:51:57.737770 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.737774 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.8_head #1:102b141e:::100000000f1.00000008:head#
+2017-07-13 20:51:57.741204 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.8_head #1:102b141e:::100000000f1.00000008:head# ~306
+2017-07-13 20:51:57.741217 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.8_head #1:102b141e:::100000000f1.00000008:head# 0~4194304
+2017-07-13 20:51:57.743507 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.8_head #1:10000000::::head# ~410
+2017-07-13 20:51:57.746453 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.20_head #1:04000000::::head# ~410
+2017-07-13 20:51:57.748575 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.748579 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.3d_head #1:be07b9e1:::100000000f1.00000009:head#
+2017-07-13 20:51:57.750394 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3d_head #1:be07b9e1:::100000000f1.00000009:head# ~306
+2017-07-13 20:51:57.750625 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3d_head #1:be07b9e1:::100000000f1.00000009:head# 0~4194304
+2017-07-13 20:51:57.754151 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3d_head #1:bc000000::::head# ~410
+2017-07-13 20:51:57.754707 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.754725 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.42_head #1:43b39d22:::100000000f1.0000000a:head#
+2017-07-13 20:51:57.755976 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.42_head #1:43b39d22:::100000000f1.0000000a:head# ~306
+2017-07-13 20:51:57.756004 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.42_head #1:43b39d22:::100000000f1.0000000a:head# 0~4194304
+2017-07-13 20:51:57.759698 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.759703 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.3f_head #1:fd7a9bf7:::100000000f1.0000000b:head#
+2017-07-13 20:51:57.760044 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.42_head #1:42000000::::head# ~410
+2017-07-13 20:51:57.761267 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3f_head #1:fd7a9bf7:::100000000f1.0000000b:head# ~306
+2017-07-13 20:51:57.761279 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3f_head #1:fd7a9bf7:::100000000f1.0000000b:head# 0~4194304
+2017-07-13 20:51:57.765361 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3f_head #1:fc000000::::head# ~410
+2017-07-13 20:51:57.766758 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.766763 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.3d_head #1:bff8f756:::100000000f1.0000000c:head#
+2017-07-13 20:51:57.768686 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3d_head #1:bff8f756:::100000000f1.0000000c:head# ~306
+2017-07-13 20:51:57.768708 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3d_head #1:bff8f756:::100000000f1.0000000c:head# 0~4194304
+2017-07-13 20:51:57.771283 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3d_head #1:bc000000::::head# ~410
+2017-07-13 20:51:57.774952 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.774957 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.27_head #1:e4d2d55c:::100000000f1.0000000d:head#
+2017-07-13 20:51:57.776594 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.27_head #1:e4d2d55c:::100000000f1.0000000d:head# ~306
+2017-07-13 20:51:57.776603 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.27_head #1:e4d2d55c:::100000000f1.0000000d:head# 0~4194304
+2017-07-13 20:51:57.780204 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.780208 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.12_head #1:49e42e53:::100000000f1.0000000e:head#
+2017-07-13 20:51:57.781430 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.781434 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.7_head #1:e053ea09:::100000000f1.0000000f:head#
+2017-07-13 20:51:57.782270 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.12_head #1:49e42e53:::100000000f1.0000000e:head# ~306
+2017-07-13 20:51:57.782277 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.12_head #1:49e42e53:::100000000f1.0000000e:head# 0~4194304
+2017-07-13 20:51:57.782969 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.7_head #1:e053ea09:::100000000f1.0000000f:head# ~306
+2017-07-13 20:51:57.782981 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.7_head #1:e053ea09:::100000000f1.0000000f:head# 0~4194304
+2017-07-13 20:51:57.784522 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.27_head #1:e4000000::::head# ~410
+2017-07-13 20:51:57.786573 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.12_head #1:48000000::::head# ~410
+2017-07-13 20:51:57.787598 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.7_head #1:e0000000::::head# ~410
+2017-07-13 20:51:57.788069 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.788073 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.47_head #1:e288912f:::100000000f1.00000010:head#
+2017-07-13 20:51:57.790481 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.47_head #1:e288912f:::100000000f1.00000010:head# ~306
+2017-07-13 20:51:57.790505 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.47_head #1:e288912f:::100000000f1.00000010:head# 0~4194304
+2017-07-13 20:51:57.791552 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.791556 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.49_head #1:92dec910:::100000000f1.00000011:head#
+2017-07-13 20:51:57.792785 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.47_head #1:e2000000::::head# ~410
+2017-07-13 20:51:57.792855 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.49_head #1:92dec910:::100000000f1.00000011:head# ~306
+2017-07-13 20:51:57.792868 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.49_head #1:92dec910:::100000000f1.00000011:head# 0~4194304
+2017-07-13 20:51:57.795125 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.49_head #1:92000000::::head# ~410
+2017-07-13 20:51:57.797264 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.797268 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.4_head #1:21857cfe:::100000000f1.00000012:head#
+2017-07-13 20:51:57.798653 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4_head #1:21857cfe:::100000000f1.00000012:head# ~306
+2017-07-13 20:51:57.798665 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4_head #1:21857cfe:::100000000f1.00000012:head# 0~4194304
+2017-07-13 20:51:57.801151 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.801154 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.16_head #1:6832a70f:::100000000f1.00000013:head#
+2017-07-13 20:51:57.801311 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4_head #1:20000000::::head# ~410
+2017-07-13 20:51:57.802916 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.16_head #1:6832a70f:::100000000f1.00000013:head# ~306
+2017-07-13 20:51:57.802924 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.16_head #1:6832a70f:::100000000f1.00000013:head# 0~4194304
+2017-07-13 20:51:57.804573 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.804578 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.3d_head #1:bd4bc776:::100000000f1.00000014:head#
+2017-07-13 20:51:57.806873 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.3d_head #1:bd4bc776:::100000000f1.00000014:head# ~306
+2017-07-13 20:51:57.806885 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.3d_head #1:bd4bc776:::100000000f1.00000014:head# 0~4194304
+2017-07-13 20:51:57.807811 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.807815 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.1b_head #1:d823b8ed:::100000000f1.00000015:head#
+2017-07-13 20:51:57.809539 7f3f48a52700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.3d_head #1:bc000000::::head# ~410
+2017-07-13 20:51:57.810822 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1b_head #1:d823b8ed:::100000000f1.00000015:head# ~306
+2017-07-13 20:51:57.810830 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1b_head #1:d823b8ed:::100000000f1.00000015:head# 0~4194304
+2017-07-13 20:51:57.811982 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.811990 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.10_head #1:0897fb16:::100000000f1.00000016:head#
+2017-07-13 20:51:57.812993 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.16_head #1:68000000::::head# ~410
+2017-07-13 20:51:57.814692 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.10_head #1:0897fb16:::100000000f1.00000016:head# ~306
+2017-07-13 20:51:57.814701 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.10_head #1:0897fb16:::100000000f1.00000016:head# 0~4194304
+2017-07-13 20:51:57.816077 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.816081 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.14_head #1:2993275b:::100000000f1.00000017:head#
+2017-07-13 20:51:57.816513 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1b_head #1:d8000000::::head# ~410
+2017-07-13 20:51:57.817758 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.14_head #1:2993275b:::100000000f1.00000017:head# ~306
+2017-07-13 20:51:57.817764 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.14_head #1:2993275b:::100000000f1.00000017:head# 0~4194304
+2017-07-13 20:51:57.818675 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.10_head #1:08000000::::head# ~410
+2017-07-13 20:51:57.820063 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.14_head #1:28000000::::head# ~410
+2017-07-13 20:51:57.823660 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.823664 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.f_head #1:f17be11e:::100000000f1.00000018:head#
+2017-07-13 20:51:57.825825 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.f_head #1:f17be11e:::100000000f1.00000018:head# ~306
+2017-07-13 20:51:57.825850 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.f_head #1:f17be11e:::100000000f1.00000018:head# 0~4194304
+2017-07-13 20:51:57.828048 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.f_head #1:f0000000::::head# ~410
+2017-07-13 20:51:57.828597 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.828615 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.39_head #1:9e110484:::100000000f1.00000019:head#
+2017-07-13 20:51:57.830366 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.39_head #1:9e110484:::100000000f1.00000019:head# ~306
+2017-07-13 20:51:57.830702 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.39_head #1:9e110484:::100000000f1.00000019:head# 0~4194304
+2017-07-13 20:51:57.831343 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.831347 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.2b_head #1:d7f773b1:::100000000f1.0000001b:head#
+2017-07-13 20:51:57.832305 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.832309 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.1e_head #1:78e8fbac:::100000000f1.0000001c:head#
+2017-07-13 20:51:57.833028 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2b_head #1:d7f773b1:::100000000f1.0000001b:head# ~306
+2017-07-13 20:51:57.833033 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2b_head #1:d7f773b1:::100000000f1.0000001b:head# 0~4194304
+2017-07-13 20:51:57.833198 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.833177 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1e_head #1:78e8fbac:::100000000f1.0000001c:head# ~306
+2017-07-13 20:51:57.833208 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.33_head #1:cc2ccf4d:::100000000f1.0000001a:head#
+2017-07-13 20:51:57.833216 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1e_head #1:78e8fbac:::100000000f1.0000001c:head# 0~2121728
+2017-07-13 20:51:57.834502 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1e_head #1:78000000::::head# ~410
+2017-07-13 20:51:57.837824 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2b_head #1:d4000000::::head# ~410
+2017-07-13 20:51:57.839912 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.33_head #1:cc2ccf4d:::100000000f1.0000001a:head# ~306
+2017-07-13 20:51:57.840536 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.33_head #1:cc2ccf4d:::100000000f1.0000001a:head# 0~4194304
+2017-07-13 20:51:57.840468 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.39_head #1:9c000000::::head# ~410
+2017-07-13 20:51:57.847526 7f3f4624d700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.33_head #1:cc000000::::head# ~410
+2017-07-13 20:51:57.850445 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.850464 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.1d_head #1:b9cee72b:::100000000ed.00000000:head# ~306
+2017-07-13 20:51:57.850468 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.1d_head #1:b9cee72b:::100000000ed.00000000:head# 4096~12288
+2017-07-13 20:51:57.850475 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.1d_head #1:b8000000::::head# ~410
+2017-07-13 20:51:57.850637 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.850844 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.850863 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.4_head #1:20ceeb1e:::100000000ec.00000000:head# ~306
+2017-07-13 20:51:57.850871 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.4_head #1:20ceeb1e:::100000000ec.00000000:head# 4096~12288
+2017-07-13 20:51:57.850878 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.4_head #1:20000000::::head# ~410
+2017-07-13 20:51:57.851012 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:57.851023 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 2146304~258048
+2017-07-13 20:51:57.851221 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.851240 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.45_head #1:a3215264:::100000000eb.00000000:head# ~306
+2017-07-13 20:51:57.851248 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.45_head #1:a3215264:::100000000eb.00000000:head# 4096~12288
+2017-07-13 20:51:57.851254 7f3f44a4a700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.45_head #1:a2000000::::head# ~410
+2017-07-13 20:51:57.851379 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:51:57.851592 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.851608 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.2a_head #1:54beb349:::100000000ea.00000000:head# ~306
+2017-07-13 20:51:57.851611 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.2a_head #1:54beb349:::100000000ea.00000000:head# 4096~12288
+2017-07-13 20:51:57.851618 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.2a_head #1:54000000::::head# ~410
+2017-07-13 20:51:57.852027 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.852047 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.44_head #1:235bfa30:::100000000e9.00000000:head# ~306
+2017-07-13 20:51:57.852051 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.44_head #1:235bfa30:::100000000e9.00000000:head# 4096~12288
+2017-07-13 20:51:57.852057 7f3f47a50700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.44_head #1:22000000::::head# ~410
+2017-07-13 20:51:57.855256 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.855272 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.36_head #1:6c62f82b:::100000000e7.00000000:head# ~306
+2017-07-13 20:51:57.855276 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.36_head #1:6c62f82b:::100000000e7.00000000:head# 4096~12288
+2017-07-13 20:51:57.855282 7f3f4724f700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.36_head #1:6c000000::::head# ~410
+2017-07-13 20:51:57.855804 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.855863 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5d_head #1:bba66d05:::100000000e5.00000000:head# ~306
+2017-07-13 20:51:57.855871 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5d_head #1:bba66d05:::100000000e5.00000000:head# 4096~12288
+2017-07-13 20:51:57.855878 7f3f4524b700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5d_head #1:ba000000::::head# ~410
+2017-07-13 20:51:57.856919 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) read 1.57_head #1:eba7c799:::100000000e1.00000000:head# 0~842
+2017-07-13 20:51:57.857955 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.858000 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.43_head #1:c239e8b3:::100000000e0.00000000:head# ~306
+2017-07-13 20:51:57.858015 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.43_head #1:c239e8b3:::100000000e0.00000000:head# 4096~24576
+2017-07-13 20:51:57.858056 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.43_head #1:c2000000::::head# ~410
+2017-07-13 20:51:57.859331 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.859354 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:57.859357 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3028002~6800
+2017-07-13 20:51:57.859368 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:57.859382 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.859386 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _touch 1.5f_head #1:fa69016c:::100000000f8.00000000:head#
+2017-07-13 20:51:57.859395 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.5f_head #1:fa69016c:::100000000f8.00000000:head# ~306
+2017-07-13 20:51:57.859398 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.5f_head #1:fa69016c:::100000000f8.00000000:head# 0~989
+2017-07-13 20:51:57.859455 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.5f_head #1:fa000000::::head# ~410
+2017-07-13 20:51:57.860737 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.860767 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:51:57.860781 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3034802~9903
+2017-07-13 20:51:57.860796 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:51:57.862636 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.862817 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:57.862840 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 2400256~151552
+2017-07-13 20:51:57.862949 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:51:57.952460 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:57.952663 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:57.952673 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 2547712~417792
+2017-07-13 20:51:57.952920 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:51:58.054072 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:58.054365 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:58.054379 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 2961408~495616
+2017-07-13 20:51:58.054612 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:51:58.155516 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:51:58.155585 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 1.11_head #1:891f3806:::100000000e6.00000014:head# ~306
+2017-07-13 20:51:58.155596 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 1.11_head #1:891f3806:::100000000e6.00000014:head# 3452928~36864
+2017-07-13 20:51:58.155649 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.11_head #1:88000000::::head# ~410
+2017-07-13 20:52:00.331791 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs
+2017-07-13 20:52:00.331805 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs: used_bytes: 317651377/4294967296
+2017-07-13 20:52:00.831990 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs
+2017-07-13 20:52:00.832009 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs: used_bytes: 317651377/4294967296
+2017-07-13 20:52:01.858866 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:52:01.858888 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:52:01.858892 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3044705~3129
+2017-07-13 20:52:01.858900 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:52:01.859098 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:52:01.859106 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.61_head #2:86ee9bce:::500.00000001:head# ~298
+2017-07-13 20:52:01.859109 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.61_head #2:86ee9bce:::500.00000001:head# 19902~93
+2017-07-13 20:52:01.859114 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.61_head #2:86000000::::head# ~402
+2017-07-13 20:52:01.859216 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:52:01.859223 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:52:01.859226 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3047834~1084
+2017-07-13 20:52:01.859230 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:52:01.859340 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:52:01.859350 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.14_head #2:292cf221:::200.00000000:head# ~298
+2017-07-13 20:52:01.859352 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.14_head #2:292cf221:::200.00000000:head# 0~90
+2017-07-13 20:52:01.859356 7f3f49253700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.14_head #2:28000000::::head# ~402
+2017-07-13 20:52:01.859915 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) read 2.61_head #2:86ee9bce:::500.00000001:head# 19902~93
+2017-07-13 20:52:01.860366 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:52:01.860375 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:52:01.860378 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3048918~1372
+2017-07-13 20:52:01.860383 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:52:01.860493 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:52:01.860497 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _remove 1.57_head #1:eba7c799:::100000000e1.00000000:head#
+2017-07-13 20:52:01.860505 7f3f45a4c700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 1.57_head #1:ea000000::::head# ~410
+2017-07-13 20:52:01.860753 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:52:01.860769 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.34_head #2:2e2fa760:::200.00000001:head# ~298
+2017-07-13 20:52:01.860773 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.34_head #2:2e2fa760:::200.00000001:head# 3050290~2166
+2017-07-13 20:52:01.860778 7f3f48251700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.34_head #2:2c000000::::head# ~402
+2017-07-13 20:52:01.860907 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _do_transaction 0
+2017-07-13 20:52:01.860916 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _setattrs 2.55_head #2:aa448500:::500.00000000:head# ~298
+2017-07-13 20:52:01.860920 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _write 2.55_head #2:aa448500:::500.00000000:head# 0~90
+2017-07-13 20:52:01.860925 7f3f46a4e700 10 memstore(/var/lib/ceph/osd/ceph-0) _omap_setkeys 2.55_head #2:aa000000::::head# ~402
+2017-07-13 20:52:02.532205 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs
+2017-07-13 20:52:02.532224 7f3f43247700 10 memstore(/var/lib/ceph/osd/ceph-0) statfs: used_bytes: 317658379/4294967296

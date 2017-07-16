@@ -1,0 +1,7 @@
+_do_transaction 461
+_omap_setkeys 461
+_remove 28
+_setattrs 393
+_touch 39
+_write 393
+statfs 28

@@ -1,0 +1,9 @@
+_do_transaction 44582
+_omap_setkeys 44582
+_remove 175
+_setattrs 44407
+_touch 175
+_write 44407
+collection_list 200
+read 1
+statfs 3
