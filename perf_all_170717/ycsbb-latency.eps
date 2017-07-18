@@ -1,0 +1,586 @@
+%!PS-Adobe-2.0 EPSF-2.0
+%%Title: ycsbb-latency
+%%Creator: zplot version:python version 1.4 script:/Library/Python/2.7/site-packages/zplot/zplot.pyc host:Eunjis-MacBook-Air.local
+%%CreationDate: 22:22:26 07/17/17 CDT
+%%DocumentFonts: (atend)
+%%BoundingBox: 0 0 273.6 216.0
+%%Orientation: Portrait
+%%EndComments
+% zdraw dictionary
+/zdict 256 dict def
+zdict begin
+/cpx 0 def
+/cpy 0 def
+/reccp {currentpoint /cpy exch def /cpx exch def} bind def
+/m {moveto} bind def
+/l {lineto} bind def
+/mr {rmoveto} bind def
+/lr {rlineto} bind def
+/np {newpath} bind def
+/cp {closepath} bind def
+/st {stroke} bind def
+/fl {fill} bind def
+/gs {gsave} bind def
+/gr {grestore} bind def
+/slw {setlinewidth} bind def
+/slc {setlinecap} bind def
+/slj {setlinejoin} bind def
+/sc  {setrgbcolor} bind def
+/sd  {setdash} bind def
+/lshow {show reccp} def
+/rshow {dup stringwidth pop neg 0 mr show reccp} def
+/cshow {dup stringwidth pop -2 div 0 mr show reccp} def
+end
+zdict begin
+gs
+np
+1.0 slw
+35.5 36.0 m
+259.1 36.0 l
+st
+gr
+gs
+np
+1.0 slw
+36.0 35.5 m
+36.0 201.5 l
+st
+gr
+gs
+np
+1.0 slw
+35.5 201.0 m
+259.1 201.0 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 35.5 m
+258.6 201.5 l
+st
+gr
+gs
+np
+1.0 slw
+60.7333333333 32.0 m
+60.7333333333 36.0 l
+st
+gr
+gs
+np
+1.0 slw
+134.933333333 32.0 m
+134.933333333 36.0 l
+st
+gr
+gs
+np
+1.0 slw
+209.133333333 32.0 m
+209.133333333 36.0 l
+st
+gr
+gs
+np
+1.0 slw
+60.7333333333 201.0 m
+60.7333333333 205.0 l
+st
+gr
+gs
+np
+1.0 slw
+134.933333333 201.0 m
+134.933333333 205.0 l
+st
+gr
+gs
+np
+1.0 slw
+209.133333333 201.0 m
+209.133333333 205.0 l
+st
+gr
+gs
+np
+1.0 slw
+32.0 36.0 m
+36.0 36.0 l
+st
+gr
+gs
+np
+1.0 slw
+32.0 52.5 m
+36.0 52.5 l
+st
+gr
+gs
+np
+1.0 slw
+32.0 69.0 m
+36.0 69.0 l
+st
+gr
+gs
+np
+1.0 slw
+32.0 85.5 m
+36.0 85.5 l
+st
+gr
+gs
+np
+1.0 slw
+32.0 102.0 m
+36.0 102.0 l
+st
+gr
+gs
+np
+1.0 slw
+32.0 118.5 m
+36.0 118.5 l
+st
+gr
+gs
+np
+1.0 slw
+32.0 135.0 m
+36.0 135.0 l
+st
+gr
+gs
+np
+1.0 slw
+32.0 151.5 m
+36.0 151.5 l
+st
+gr
+gs
+np
+1.0 slw
+32.0 168.0 m
+36.0 168.0 l
+st
+gr
+gs
+np
+1.0 slw
+32.0 184.5 m
+36.0 184.5 l
+st
+gr
+gs
+np
+1.0 slw
+32.0 201.0 m
+36.0 201.0 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 36.0 m
+262.6 36.0 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 52.5 m
+262.6 52.5 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 69.0 m
+262.6 69.0 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 85.5 m
+262.6 85.5 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 102.0 m
+262.6 102.0 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 118.5 m
+262.6 118.5 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 135.0 m
+262.6 135.0 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 151.5 m
+262.6 151.5 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 168.0 m
+262.6 168.0 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 184.5 m
+262.6 184.5 l
+st
+gr
+gs
+np
+1.0 slw
+258.6 201.0 m
+262.6 201.0 l
+st
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+60.7333333333 29.0 m
+-20.28 -7.2 mr
+(UPDATE) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+134.933333333 29.0 m
+-13.89 -7.2 mr
+(READ) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+209.133333333 29.0 m
+-23.615 -7.2 mr
+(CLEANUP) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+29.0 36.0 m
+-5.56 -3.6 mr
+(0) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+29.0 52.5 m
+-16.68 -3.6 mr
+(190) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+29.0 69.0 m
+-16.68 -3.6 mr
+(380) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+29.0 85.5 m
+-16.68 -3.6 mr
+(570) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+29.0 102.0 m
+-16.68 -3.6 mr
+(760) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+29.0 118.5 m
+-16.68 -3.6 mr
+(950) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+29.0 135.0 m
+-22.24 -3.6 mr
+(1140) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+29.0 151.5 m
+-22.24 -3.6 mr
+(1330) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+29.0 168.0 m
+-22.24 -3.6 mr
+(1520) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+29.0 184.5 m
+-22.24 -3.6 mr
+(1710) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+29.0 201.0 m
+-22.24 -3.6 mr
+(1900) lshow
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+147.3 208.5 m
+-13.06 0.0 mr
+(ycsbb) lshow
+gr
+gs
+(Helvetica) findfont 10 scalefont setfont
+3.76 118.5 m
+gs
+90.0 rotate
+-15.84 0.0 mr
+(latency) lshow
+gr
+gr
+gs
+np
+0.25 slw
+1.00 0.00 0.00 sc
+50.84 36.0 m
+50.84 48.5052631579 l
+70.6266666667 48.5052631579 l
+70.6266666667 36.0 l
+cp
+fl
+st
+gr
+gs
+np
+0.25 slw
+50.84 36.0 m
+50.84 48.5052631579 l
+70.6266666667 48.5052631579 l
+70.6266666667 36.0 l
+cp
+st
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+60.7333333333 51.5052631579 m
+-8.34 0.0 mr
+(144) lshow
+gr
+gs
+np
+0.25 slw
+1.00 0.00 0.00 sc
+125.04 36.0 m
+125.04 42.3394736842 l
+144.826666667 42.3394736842 l
+144.826666667 36.0 l
+cp
+fl
+st
+gr
+gs
+np
+0.25 slw
+125.04 36.0 m
+125.04 42.3394736842 l
+144.826666667 42.3394736842 l
+144.826666667 36.0 l
+cp
+st
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+134.933333333 45.3394736842 m
+-5.56 0.0 mr
+(73) lshow
+gr
+gs
+np
+0.25 slw
+1.00 0.00 0.00 sc
+199.24 36.0 m
+199.24 181.373684211 l
+219.026666667 181.373684211 l
+219.026666667 36.0 l
+cp
+fl
+st
+gr
+gs
+np
+0.25 slw
+199.24 36.0 m
+199.24 181.373684211 l
+219.026666667 181.373684211 l
+219.026666667 36.0 l
+cp
+st
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+209.133333333 184.373684211 m
+-11.12 0.0 mr
+(1674) lshow
+gr
+gs
+np
+0.25 slw
+0.00 0.00 1.00 sc
+75.5733333333 36.0 m
+75.5733333333 49.0263157895 l
+95.36 49.0263157895 l
+95.36 36.0 l
+cp
+fl
+st
+gr
+gs
+np
+0.25 slw
+75.5733333333 36.0 m
+75.5733333333 49.0263157895 l
+95.36 49.0263157895 l
+95.36 36.0 l
+cp
+st
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+85.4666666667 52.0263157895 m
+-8.34 0.0 mr
+(150) lshow
+gr
+gs
+np
+0.25 slw
+0.00 0.00 1.00 sc
+149.773333333 36.0 m
+149.773333333 42.4263157895 l
+169.56 42.4263157895 l
+169.56 36.0 l
+cp
+fl
+st
+gr
+gs
+np
+0.25 slw
+149.773333333 36.0 m
+149.773333333 42.4263157895 l
+169.56 42.4263157895 l
+169.56 36.0 l
+cp
+st
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+159.666666667 45.4263157895 m
+-5.56 0.0 mr
+(74) lshow
+gr
+gs
+np
+0.25 slw
+0.00 0.00 1.00 sc
+223.973333333 36.0 m
+223.973333333 155.234210526 l
+243.76 155.234210526 l
+243.76 36.0 l
+cp
+fl
+st
+gr
+gs
+np
+0.25 slw
+223.973333333 36.0 m
+223.973333333 155.234210526 l
+243.76 155.234210526 l
+243.76 36.0 l
+cp
+st
+gr
+gs
+(Helvetica) findfont 10.0 scalefont setfont
+233.866666667 158.234210526 m
+-11.12 0.0 mr
+(1373) lshow
+gr
+gs
+np
+0.125 slw
+1.00 0.00 0.00 sc
+41.0 191.0 m
+41.0 201.0 l
+51.0 201.0 l
+51.0 191.0 l
+cp
+fl
+st
+gr
+gs
+np
+0.125 slw
+41.0 191.0 m
+41.0 201.0 l
+51.0 201.0 l
+51.0 191.0 l
+cp
+st
+gr
+gs
+(Helvetica) findfont 10 scalefont setfont
+55.0 196.0 m
+0.0 -3.6 mr
+(filestore) lshow
+gr
+gs
+np
+0.125 slw
+0.00 0.00 1.00 sc
+41.0 178.0 m
+41.0 188.0 l
+51.0 188.0 l
+51.0 178.0 l
+cp
+fl
+st
+gr
+gs
+np
+0.125 slw
+41.0 178.0 m
+41.0 188.0 l
+51.0 188.0 l
+51.0 178.0 l
+cp
+st
+gr
+gs
+(Helvetica) findfont 10 scalefont setfont
+55.0 183.0 m
+0.0 -3.6 mr
+(bluestore) lshow
+gr
+% zplot .eps epilogue
+end
+showpage
+%%Trailer
+%%DocumentFonts: Helvetica

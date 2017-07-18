@@ -1,0 +1,28 @@
+0 rbd,1 .rgw.root,2 default.rgw.control,3 default.rgw.meta,4 default.rgw.log,5 default.rgw.buckets.index,6 default.rgw.buckets.data,7 scbench,
+
+rados bench -p scbench 10 rand
+hints = 1
+  sec Cur ops   started  finished  avg MB/s  cur MB/s last lat(s)  avg lat(s)
+    0       0         0         0         0         0           -           0
+    1      16        73        57   227.957       228    0.406546    0.201855
+    2      16       106        90   179.967       132    0.596402     0.30646
+    3      16       139       123   163.971       132    0.781345    0.351929
+    4      16       171       155   154.974       128    0.297607    0.382332
+    5      16       200       184   147.175       116    0.488181    0.409575
+    6      16       235       219   145.975       140    0.550956    0.419405
+    7      16       262       246   140.548       108     0.47483     0.43267
+    8      16       296       280   139.977       136    0.333075    0.437079
+    9      16       330       314   139.532       136    0.341928    0.441691
+   10      16       370       354   141.576       160    0.266296    0.444019
+Total time run:       10.488419
+Total reads made:     371
+Read size:            4194304
+Object size:          4194304
+Bandwidth (MB/sec):   141.489
+Average IOPS:         35
+Stddev IOPS:          8
+Max IOPS:             57
+Min IOPS:             27
+Average Latency(s):   0.450009
+Max latency(s):       1.23104
+Min latency(s):       0.00405394

@@ -1,0 +1,9 @@
+# line store wor latency
+1 filestore SCAN 364
+2 bluestore SCAN 363
+3 0 0 0
+4 filestore INSERT 181
+5 bluestore INSERT 125
+6 0 0 0
+7 filestore CLEANUP 1228
+8 bluestore CLEANUP 1109

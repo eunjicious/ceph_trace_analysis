@@ -1,0 +1,9 @@
+# line size wor store iops
+1 1m DEL bluestore 315.05 
+2 1m DEL filestore 331.35 
+3 0 0 0 0
+4 1m GETS bluestore 2.5 
+5 1m GETS filestore 2.5 
+6 0 0 0 0
+7 1m PUTS bluestore 180.38 
+8 1m PUTS filestore 190.48 

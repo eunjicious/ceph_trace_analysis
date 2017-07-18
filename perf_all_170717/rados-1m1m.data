@@ -1,0 +1,11 @@
+# store iops
+1 filestore 1m1m 97
+2 bluestore 1m1m 133
+1 filestore 4k4k 1408
+2 bluestore 4k4k 2561
+3 0 0
+4 filestore 4k1m 3918
+5 bluestore 4k1m 2903
+6 0 0
+7 filestore 1m1m 97
+8 bluestore 1m1m 133

@@ -1,0 +1,4 @@
+randrw bluestore 1m randrw 489472 67207 65
+randwrite bluestore 1m randwrite 1024.0MB 140976 137
+rw bluestore 1m rw 489472 72343 70
+write bluestore 1m write 1024.0MB 140767 137

@@ -1,0 +1,3 @@
+# store iops
+1 filestore 4k4k 1408
+2 bluestore 4k4k 2561

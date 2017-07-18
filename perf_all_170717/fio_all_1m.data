@@ -1,0 +1,12 @@
+# line store size wor io bw iops runt
+1 filestore 1m seqrd io bw iops runt
+2 bluestore 1m seqrd io bw iops runt
+3 0 0 0 0 0 0 0
+4 filestore 1m rdwr io bw iops runt
+5 bluestore 1m rdwr io bw iops runt
+6 0 0 0 0 0 0 0
+7 filestore 1m randrdwr io bw iops runt
+8 bluestore 1m randrdwr io bw iops runt
+9 0 0 0 0 0 0 0
+10 filestore 1m randrd io bw iops runt
+11 bluestore 1m randrd io bw iops runt

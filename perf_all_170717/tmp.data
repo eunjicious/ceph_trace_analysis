@@ -1,0 +1,6 @@
+4k DEL filestore 640.38
+4k GETS filestore 2.5
+4k PUTS filestore 658.93
+4k DEL bluestore 431.2
+4k GETS bluestore 2.82
+4k PUTS bluestore 607.52

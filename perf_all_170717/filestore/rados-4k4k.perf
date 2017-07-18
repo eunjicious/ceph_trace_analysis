@@ -1,0 +1,34 @@
+0 rbd,1 .rgw.root,2 default.rgw.control,3 default.rgw.meta,4 default.rgw.log,5 default.rgw.buckets.index,6 default.rgw.buckets.data,
+
+rados bench -p scbench 10 write --no-cleanup -b 4096 -o 4096
+hints = 1
+Maintaining 16 concurrent writes of 4096 bytes to objects of size 4096 for up to 10 seconds or 0 objects
+Object prefix: benchmark_data_gdb1_4367
+  sec Cur ops   started  finished  avg MB/s  cur MB/s last lat(s)  avg lat(s)
+    0       0         0         0         0         0           -           0
+    1      16        16         0         0         0           -           0
+    2      16       118       102  0.199192  0.199219  0.00192834    0.313604
+    3      16      4423      4407    5.7375   16.8164   0.0028648   0.0108837
+    4      16      5925      5909   5.76968   5.86719   0.0101868   0.0107856
+    5      16      6517      6501   5.07818    2.3125   0.0758116   0.0121737
+    6      15     10724     10709   6.97102   16.4375   0.0026206  0.00896165
+    7      16     12366     12350   6.89077   6.41016   0.0288347  0.00903843
+    8      16     12933     12917   6.30627   2.21484   0.0557378  0.00987661
+    9      16     13527     13511   5.86335   2.32031   0.0431486   0.0106372
+   10      16     14136     14120   5.51487   2.37891  0.00547247   0.0113159
+Total time run:         10.037520
+Total writes made:      14137
+Write size:             4096
+Object size:            4096
+Bandwidth (MB/sec):     5.50162
+Stddev Bandwidth:       6.21651
+Max bandwidth (MB/sec): 16.8164
+Min bandwidth (MB/sec): 0
+Average IOPS:           1408
+Stddev IOPS:            1591
+Max IOPS:               4305
+Min IOPS:               0
+Average Latency(s):     0.0113549
+Stddev Latency(s):      0.0675541
+Max latency(s):         1.9913
+Min latency(s):         0.00107978

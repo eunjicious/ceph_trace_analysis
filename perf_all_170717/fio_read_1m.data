@@ -1,0 +1,12 @@
+# line store size wor io bw iops runt
+1 filestore 1m seqrd 1024.0 5224.6/s 5224 196
+2 bluestore 1m seqrd 1024.0 5389.5/s 5389 190
+3 0 0 0 0 0 0 0
+4 filestore 1m seqmix 559104 66671 65 8386
+5 bluestore 1m seqmix 559104 82634 80 6766
+6 0 0 0 0 0 0 0
+7 filestore 1m randrd 1024.0 1098.8/s 1098 932
+8 bluestore 1m randrd 1024.0 141853 138 7392
+9 0 0 0 0 0 0 0
+10 filestore 1m randmix 559104 107334 104 5209
+11 bluestore 1m randmix 559104 76768 74 7283

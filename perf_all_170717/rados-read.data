@@ -1,0 +1,6 @@
+# line store wor iops
+1 filestore seqr 33
+2 bluestore seqr 33
+3 0 0 0
+4 filestore randr 35
+5 bluestore randr 33

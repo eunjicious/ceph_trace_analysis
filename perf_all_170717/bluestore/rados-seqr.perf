@@ -1,0 +1,28 @@
+0 rbd,1 scbench,
+
+rados bench -p scbench 10 seq
+hints = 1
+  sec Cur ops   started  finished  avg MB/s  cur MB/s last lat(s)  avg lat(s)
+    0       0         0         0         0         0           -           0
+    1      16        74        58   231.956       232    0.424327    0.207754
+    2      16       104        88   175.968       120    0.421253    0.307013
+    3      16       132       116    154.64       112    0.337966    0.362672
+    4      16       163       147   146.975       124     0.47631    0.398086
+    5      16       194       178   142.377       124     0.29708    0.415565
+    6      16       226       210   139.977       128    0.417595    0.433471
+    7      16       255       239   136.549       116     1.30681    0.446828
+    8      16       287       271   135.478       128     1.13185    0.450462
+    9      16       319       303   134.645       128    0.862581    0.460796
+   10      16       348       332   132.779       116    0.367709    0.466408
+Total time run:       10.444641
+Total reads made:     349
+Read size:            4194304
+Object size:          4194304
+Bandwidth (MB/sec):   133.657
+Average IOPS:         33
+Stddev IOPS:          8
+Max IOPS:             58
+Min IOPS:             28
+Average Latency(s):   0.476574
+Max latency(s):       1.30681
+Min latency(s):       0.100188

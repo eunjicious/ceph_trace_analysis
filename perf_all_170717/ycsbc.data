@@ -1,0 +1,6 @@
+# line store wor latency
+1 filestore READ 72
+2 bluestore READ 73
+3 0 0 0
+4 filestore CLEANUP 1609
+5 bluestore CLEANUP 1545

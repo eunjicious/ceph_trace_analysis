@@ -1,0 +1,12 @@
+# line store size wor io bw iops runt
+1 filestore 4k seqwr 1024.0 12774 3193 82084
+2 bluestore 4k seqwr 1024.0 10703 2675 97969
+3 0 0 0 0 0 0 0
+4 filestore 4k seqmix 523872 5942.2 1485 88162
+5 bluestore 4k seqmix 523872 3120.8 780 167868
+6 0 0 0 0 0 0 0
+7 filestore 4k randwr 1024.0 11097 2774 94490
+8 bluestore 4k randwr 1024.0 10893 2723 96260
+9 0 0 0 0 0 0 0
+10 filestore 4k randmix 523872 8843.4 2210 59239
+11 bluestore 4k randmix 523872 5425.9 1356 96551

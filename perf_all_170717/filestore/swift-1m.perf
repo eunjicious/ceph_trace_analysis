@@ -1,0 +1,81 @@
+swift-bench 2017-07-18 00:16:33,575 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:16:34,993 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:16:37,176 INFO 100 PUTS **FINAL** [0 failures], 46.0/s
+swift-bench 2017-07-18 00:16:37,176 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:17:17,078 INFO 100 GETS **FINAL** [0 failures], 2.5/s
+swift-bench 2017-07-18 00:17:17,078 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:17:17,400 INFO 100 DEL **FINAL** [0 failures], 338.4/s
+swift-bench 2017-07-18 00:17:17,400 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:17:47,468 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:17:47,685 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:17:48,268 INFO 100 PUTS **FINAL** [0 failures], 173.8/s
+swift-bench 2017-07-18 00:17:48,269 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:18:28,076 INFO 100 GETS **FINAL** [0 failures], 2.5/s
+swift-bench 2017-07-18 00:18:28,076 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:18:28,477 INFO 100 DEL **FINAL** [0 failures], 263.6/s
+swift-bench 2017-07-18 00:18:28,477 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:18:58,726 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:18:58,950 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:18:59,446 INFO 100 PUTS **FINAL** [0 failures], 204.9/s
+swift-bench 2017-07-18 00:18:59,447 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:19:39,332 INFO 100 GETS **FINAL** [0 failures], 2.5/s
+swift-bench 2017-07-18 00:19:39,332 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:19:39,660 INFO 100 DEL **FINAL** [0 failures], 326.3/s
+swift-bench 2017-07-18 00:19:39,660 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:20:09,717 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:20:09,945 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:20:10,446 INFO 100 PUTS **FINAL** [0 failures], 202.8/s
+swift-bench 2017-07-18 00:20:10,446 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:20:50,347 INFO 100 GETS **FINAL** [0 failures], 2.5/s
+swift-bench 2017-07-18 00:20:50,347 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:20:50,657 INFO 100 DEL **FINAL** [0 failures], 368.7/s
+swift-bench 2017-07-18 00:20:50,658 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:21:20,908 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:21:21,128 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:21:21,548 INFO 100 PUTS **FINAL** [0 failures], 243.2/s
+swift-bench 2017-07-18 00:21:21,548 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:22:01,474 INFO 100 GETS **FINAL** [0 failures], 2.5/s
+swift-bench 2017-07-18 00:22:01,474 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:22:01,759 INFO 100 DEL **FINAL** [0 failures], 377.5/s
+swift-bench 2017-07-18 00:22:01,760 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:22:31,860 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:22:32,067 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:22:32,510 INFO 100 PUTS **FINAL** [0 failures], 230.1/s
+swift-bench 2017-07-18 00:22:32,510 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:23:12,391 INFO 100 GETS **FINAL** [0 failures], 2.5/s
+swift-bench 2017-07-18 00:23:12,391 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:23:12,688 INFO 100 DEL **FINAL** [0 failures], 362.8/s
+swift-bench 2017-07-18 00:23:12,689 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:23:42,778 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:23:42,970 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:23:43,436 INFO 100 PUTS **FINAL** [0 failures], 218.7/s
+swift-bench 2017-07-18 00:23:43,436 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:24:23,330 INFO 100 GETS **FINAL** [0 failures], 2.5/s
+swift-bench 2017-07-18 00:24:23,330 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:24:23,656 INFO 100 DEL **FINAL** [0 failures], 328.4/s
+swift-bench 2017-07-18 00:24:23,656 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:24:53,722 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:24:53,943 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:24:54,585 INFO 100 PUTS **FINAL** [0 failures], 157.8/s
+swift-bench 2017-07-18 00:24:54,585 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:25:34,383 INFO 100 GETS **FINAL** [0 failures], 2.5/s
+swift-bench 2017-07-18 00:25:34,383 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:25:34,804 INFO 100 DEL **FINAL** [0 failures], 254.8/s
+swift-bench 2017-07-18 00:25:34,804 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:26:04,794 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:26:05,028 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:26:05,525 INFO 100 PUTS **FINAL** [0 failures], 204.3/s
+swift-bench 2017-07-18 00:26:05,526 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:26:45,440 INFO 100 GETS **FINAL** [0 failures], 2.5/s
+swift-bench 2017-07-18 00:26:45,440 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:26:45,742 INFO 100 DEL **FINAL** [0 failures], 357.6/s
+swift-bench 2017-07-18 00:26:45,743 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:27:15,832 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:27:16,043 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:27:16,499 INFO 100 PUTS **FINAL** [0 failures], 223.2/s
+swift-bench 2017-07-18 00:27:16,499 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:27:56,404 INFO 100 GETS **FINAL** [0 failures], 2.5/s
+swift-bench 2017-07-18 00:27:56,404 INFO Auth version: 1.0
+swift-bench 2017-07-18 00:27:56,724 INFO 100 DEL **FINAL** [0 failures], 335.4/s
+swift-bench 2017-07-18 00:27:56,724 INFO Auth version: 1.0
+

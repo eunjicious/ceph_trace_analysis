@@ -1,0 +1,30 @@
+rbd_iodepth32: (g=0): rw=write, bs=1M-1M/1M-1M/1M-1M, ioengine=rbd, iodepth=32
+fio-2.2.10
+Starting 1 process
+rbd engine: RBD version: 1.12.0
+
+rbd_iodepth32: (groupid=0, jobs=1): err= 0: pid=7186: Mon Jul 17 07:42:40 2017
+  write: io=1024.0MB, bw=140767KB/s, iops=137, runt=  7449msec
+    slat (usec): min=224, max=2835, avg=300.29, stdev=154.08
+    clat (msec): min=58, max=587, avg=227.23, stdev=86.52
+     lat (msec): min=58, max=587, avg=227.53, stdev=86.46
+    clat percentiles (msec):
+     |  1.00th=[   68],  5.00th=[  102], 10.00th=[  114], 20.00th=[  151],
+     | 30.00th=[  192], 40.00th=[  215], 50.00th=[  227], 60.00th=[  253],
+     | 70.00th=[  260], 80.00th=[  265], 90.00th=[  314], 95.00th=[  400],
+     | 99.00th=[  461], 99.50th=[  461], 99.90th=[  570], 99.95th=[  586],
+     | 99.99th=[  586]
+    bw (KB  /s): min=93225, max=208875, per=98.72%, avg=138968.75, stdev=35029.68
+    lat (msec) : 100=4.39%, 250=54.39%, 500=40.92%, 750=0.29%
+  cpu          : usr=3.49%, sys=0.59%, ctx=174, majf=0, minf=40976
+  IO depths    : 1=0.8%, 2=3.0%, 4=8.0%, 8=22.9%, 16=59.5%, 32=5.8%, >=64=0.0%
+     submit    : 0=0.0%, 4=100.0%, 8=0.0%, 16=0.0%, 32=0.0%, 64=0.0%, >=64=0.0%
+     complete  : 0=0.0%, 4=96.2%, 8=0.4%, 16=0.3%, 32=3.1%, 64=0.0%, >=64=0.0%
+     issued    : total=r=0/w=1024/d=0, short=r=0/w=0/d=0, drop=r=0/w=0/d=0
+     latency   : target=0, window=0, percentile=100.00%, depth=32
+
+Run status group 0 (all jobs):
+  WRITE: io=1024.0MB, aggrb=140767KB/s, minb=140767KB/s, maxb=140767KB/s, mint=7449msec, maxt=7449msec
+
+Disk stats (read/write):
+  xvda: ios=5/0, merge=0/0, ticks=8/0, in_queue=8, util=0.05%
